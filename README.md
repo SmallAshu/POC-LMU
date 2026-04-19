@@ -1,4 +1,4 @@
 to run:
 
-cd lmu-telemetry
+cd POC-LMU
 uv run python record.py
